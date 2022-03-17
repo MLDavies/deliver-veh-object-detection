@@ -1,1 +1,3 @@
-# deliver-veh-object-detection
+# Delivery vehicle object-detection
+
+Images for object detection formated for YoloV5.
